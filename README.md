@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kit-kat1320
+- 👋 Hi, I’m Kit
 - 👀 I’m interested in MERN stack and JS Full Stack
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to be hired and continue to develope my skills. 
