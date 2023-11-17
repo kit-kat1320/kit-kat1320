@@ -6,7 +6,7 @@
 
 I am a FullStack developer with a passion for creating and figuring out puzzels. 
 I have experience with working with JavaScript, TypeScript, React, Node.js, Express, 
-MySQL, Mongo, Java, HTML, CSS, and Git. I am a quick learner and I am always
+MySQL, Mongo, Java, HTML, CSS, Tailwind, and Git. I am a quick learner and I am always
 looking to expand my knowledge and skills set. I left a carrer in legal
 compliance, a detail-oriened and fast paced enviroment, to pursue programing, 
 which had up to that point only been a hoby. I am excieted to 
