@@ -4,7 +4,7 @@
 - 💞️ I’m looking to be hired and continue to develope my skills. 
 - 📫 How to reach me at kirsty.codes 
 
-I am a MERN stack and JavaScript developer with a passion for creating. 
+I am a FullStack developer with a passion for creating and figuring out puzzels. 
 I have experience with working with JavaScript, TypeScript, React, Node.js, Express, 
 MySQL, Mongo, Java, HTML, CSS, and Git. I am a quick learner and I am always
 looking to expand my knowledge and skills set. I left a carrer in legal
